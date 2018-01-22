@@ -20,6 +20,17 @@ Changelog
 
 - Imporve docs template for valid reST generation
   [svx]
+- use bobtemplate.cfg to store meta data for sub-templates #245
+  [MrTango]
+
+- fix naming of vocabularies
+  [MrTango]
+
+- fix buildout template and add some docs about the used buildout.plonetest configuration
+  [MrTango]
+
+- add behavior sub-template to create Plone behaviors
+
 
 3.0.0a3 (2017-10-30)
 --------------------
